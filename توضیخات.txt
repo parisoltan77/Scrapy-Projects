@@ -1,0 +1,3 @@
+imagescrapy --> khoruji tasviri az link ax ha dar python
+Amazonscrapy --> ba estefade az scrapy ye site ra scrape konim
+by : Parinaz Soltanzdeh
